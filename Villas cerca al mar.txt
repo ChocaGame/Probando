@@ -1,0 +1,44 @@
+ Aldeas:
+* 1304 - 2312 ----- sin aldeanos
+* -216 - 2104 ----- falta scar aldeanosw 
+* 2376 - 3688
+* 2600 - 3944
+* 2216 - 2808
+* 2136 - 1288 ----- faltan sacar aldeanos
+
+--------
+
+2703 - 621 aldea decierto
+-638   -   4424
+
+---------
+tierra roja:
+
+360  -  -8616
+
+2584 -  -7024
+
+------------------------------
+Server Kenny : 5216487010246026820
+casa : -786    - 8005
+aldea: -766    - 7456
+spawn squeleto: -696     -8168
+strongol: -2460   -7452
+pantano: -665    -5380
+nether:-76 81 -1025
+Foi:-921 75 -617
+/tp -2798  75   1617	 
+-768     -8032
+-752     -8032
+-752     -8016
+-768	 -8016	
+/tp 1300 75 -80
+
+
+80 bloques
+
+-----------------------
+ROCKSTAR:
+
+ID: kyoga1234@hotmail.com
+pss: Calderon1
